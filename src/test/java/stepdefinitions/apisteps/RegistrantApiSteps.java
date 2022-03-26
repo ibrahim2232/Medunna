@@ -19,7 +19,7 @@ import static utilities.WriteToTxt.saveRegistrantData;
 
 public class RegistrantApiSteps  {
 
-  Registrant registrant = new Registrant();
+    Registrant registrant = new Registrant();
     Faker faker = new Faker();
     Response response;
 
