@@ -163,6 +163,10 @@
                             <goal>generate</goal>
                         </goals>
                         <configuration>
+
+                            <includes>
+                                <include>Test5.java</include>
+                            </includes>
                             <projectName>cucumber-framework</projectName>
                             <outputDirectory>${project.build.directory}</outputDirectory>
                             <!--                            <cucumberOutput>${project.build.directory}</cucumberOutput>-->

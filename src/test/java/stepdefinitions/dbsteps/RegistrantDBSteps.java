@@ -10,6 +10,7 @@ import static utilities.DatabaseUtility.createConnection;
 import static utilities.ReadTxt.getSSNIDs;
 import static utilities.WriteToTxt.saveRegistrantData;
 public class RegistrantDBSteps {
+
     List< Object> allDBSSNs;
     @Given("user creates a connection with DB using {string} and {string} , {string}")
     public void user_creates_a_connection_with_db_using_and(String url, String username, String password) {

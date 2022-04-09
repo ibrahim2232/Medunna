@@ -1,5 +1,5 @@
 
-@Demo
+@Demo @smoke
 
 Feature: Registration_success_test
 

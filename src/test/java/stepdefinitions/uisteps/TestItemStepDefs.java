@@ -10,7 +10,6 @@ import pojos.TestItem;
 import utilities.ConfigurationReader;
 import utilities.Driver;
 
-import static utilities.WriteToTxt.saveTestItemData;
 
 public class TestItemStepDefs {
 

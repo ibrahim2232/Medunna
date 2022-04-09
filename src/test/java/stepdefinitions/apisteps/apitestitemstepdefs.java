@@ -14,10 +14,10 @@ import utilities.ConfigurationReader;
 import java.io.IOException;
 import static Hooks.Hooks.spec;
 import static io.restassured.RestAssured.given;
-import static utilities.ApiUtils.getRequestTestItem;
+
 import static utilities.ApiUtils.postRequestTestItem;
 import static utilities.Autentication.generateToken;
-import static utilities.WriteToTxt.saveTestItemData;
+
 
 public class apitestitemstepdefs {
 
@@ -71,15 +71,7 @@ public class apitestitemstepdefs {
 
 
     }
-    @And("user saves the api records to correspondent files  for test items")
-    public void user_saves_the_api_records_to_correspondent_files_for_test_items() {
 
-
-
-
-        saveTestItemData(testitemobject);
-
-    }
     @Then("user validates api records  for test items")
     public void user_validates_api_records_for_test_items() throws IOException {
 

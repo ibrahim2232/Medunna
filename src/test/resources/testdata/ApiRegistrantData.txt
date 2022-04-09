@@ -3,4 +3,11 @@ Registrant{ssn='517-82-3747', firstname='Almeta', lastname='White', username='el
 Registrant{firstName='Lashanda', lastName='Bednar', ssn='159-99-3148', login='val.luettgen', langKey='en', password='e4iJ5HRB', email='deedee.connelly@hotmail.com'}
 Registrant{firstName='Teri', lastName='Strosin', ssn='827-58-5728', login='lanita.rodriguez', langKey='en', password='NFG!8WbMGs*7', email='tanya.doyle@hotmail.com'}
 Registrant{firstName='Francesco', lastName='Conn', ssn='662-32-9756', login='efrain.rogahn', langKey='en', password='hy%KolJ&j', email='darrel.kautzer@gmail.com'}
-Registrant{firstName='Ike', lastName='Cormier', ssn='369-93-5260', login='wilber.morar', langKey='en', password='05Y1xspOH', email='lowell.johnston@hotmail.com'}
+Registrant{firstName='Ike', lastName='Cormier', ssn='369-93-5260', login='wilber.morar', langKey='en', password='05Y1xspOH', email='lowell.johnston@hotmail.com'}Registrant{firstName='Adena', lastName='Schinner', ssn='null', login='null', langKey='null', password='3fm^$X^8v3@', email='null'}
+Registrant{firstName='Efren', lastName='Braun', ssn='null', login='null', langKey='null', password='%*xbC3Pf!e38L', email='null'}
+Registrant{firstName='Alayna', lastName='Gulgowski', ssn='null', login='null', langKey='null', password='O&j1cXn739!VLb90Rw', email='null'}
+Registrant{firstName='Johnnie', lastName='Stiedemann', ssn='617-70-4141', login='tyrone.bashirian', langKey='en', password='0pL8BjvwK4X', email='dana.ledner@hotmail.com'}
+Registrant{firstName='Elinore', lastName='Harvey', ssn='123-44-1485', login='helene.mohr', langKey='en', password='8N5&6VQnN', email='syreeta.medhurst@hotmail.com'}
+Registrant{firstName='Leopoldo', lastName='Marquardt', ssn='null', login='null', langKey='null', password='&TdX8vfcfQBwc*v&e', email='null'}
+Registrant{firstName='Britteny', lastName='Ratke', ssn='null', login='null', langKey='null', password='1HOtS@xP4E5@C%0E^2m', email='null'}
+Registrant{firstName='Doug', lastName='Frami', ssn='null', login='null', langKey='null', password='3kw*^Mo@', email='null'}
